@@ -10,6 +10,4 @@ Cancels stale orders and throttles fills for safety, with strict risk management
 
 Hedges instantly in the underlying stock
 
-Is fully configurable via config.yaml
 
-Includes logging, unit tests, and CI setup
